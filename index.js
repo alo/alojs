@@ -1,0 +1,1 @@
+console.log('Say hi to alojs javascript library... cooming soon 😏!')
